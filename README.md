@@ -1,2 +1,4 @@
 # FantasticFrontier
-Fantastic Frontier is a Minecraft dark fantasy RPG modpack, this page will source all of its code
+Fantastic Frontier is a Minecraft dark fantasy RPG modpack, these folders will source all of its code & probably more
+
+
